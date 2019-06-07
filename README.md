@@ -6,5 +6,7 @@ I chose this as a code sample because it displays my ability to take a static SV
 a working CSS Animation component. Though a simple and short animation, there were many moving parts and so I was proud
 to be able to bring this design to life.
 
+This code has been altered to redact the company/person/persons it was built for
+
 
 [surprise box](https://imgur.com/a/2k6v0t9)
